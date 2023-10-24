@@ -1,7 +1,9 @@
 
 # Farbpalette 
 
--Rot
--Grün
--Blau
--Sind alles tolle Farben
+- Rot
+- Grün
+- Blau
+- Sind alles tolle Farben+
+- Gelb
+- Magenta
